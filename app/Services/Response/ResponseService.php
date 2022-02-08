@@ -1,7 +1,6 @@
 <?php
 namespace App\Services\Response;
-asdasdadasdasdhui
-
+sdfsdfsdfsdfsdfsdfgdfgdf
 class ResponseService
 {
     private static function responsePrams($status, $errors = [], $data = []) {
